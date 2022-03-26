@@ -6,9 +6,9 @@ Analyze the difference between annual members and casual riders by analyzing his
 I downloaded data from here [add link]
 ### Data source structure
 
-''' 
+```
 data/
     ├── Trips_2019_Q3.csv
     ├── Trips_2019_Q4.csv
     └── Trips_2020_Q1.csv
-'''
+```
