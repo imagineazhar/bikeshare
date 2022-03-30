@@ -13,7 +13,8 @@ here](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 
 ```
-data/
+./data/
+    ├── Trips_2019_Q2.csv
     ├── Trips_2019_Q3.csv
     ├── Trips_2019_Q4.csv
     └── Trips_2020_Q1.csv
