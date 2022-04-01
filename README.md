@@ -19,3 +19,9 @@ here](https://divvy-tripdata.s3.amazonaws.com/index.html).
     ├── Trips_2019_Q4.csv
     └── Trips_2020_Q1.csv
 ```
+##### Data Description
+This dataset consists of four files containing data about a complete quarter.
+Each file consists of one million bike rides and related features such as rental id, start and end time, bike id, trip duration, and some demographic information about the rider. 
+In this dataset, each example corresponds to one single ride.
+
+*The naming convention used in each file is not standardized. We'll have to develop a consistent naming convention for features.
