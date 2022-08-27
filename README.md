@@ -46,7 +46,8 @@ This dataset consists of 12 files; each file contains data about a complete mont
 
 
 ## Presentation
-[embed]https://github.com/imagineazhar/bikeshare/blob/main/Report.pdf[/embed]
+<object data="/blob/main/Report.pdf" type="application/pdf" width="100%">
+</object>
 
 
 #### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
