@@ -46,9 +46,7 @@ This dataset consists of 12 files; each file contains data about a complete mont
 
 
 ## Presentation
-<object data="/blob/main/Report.pdf" type="application/pdf" width="100%">
-</object>
-
+<embed src="/blog/main/Report.pdf" type="application/pdf">
 
 #### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 <div style="width:300px; height:200px">
