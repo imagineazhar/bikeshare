@@ -31,22 +31,9 @@ here](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 >  The datasets have a different name because Cyclistic is a fictional company.The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).) This is a public dataset.
 >  
-#### Data Description:
-This dataset consists of 12 files; each file contains data about a complete month. Each example corresponds to one single ride.
-### Data Dictionary:
-| **Name of Data Field**  | **Data Type** | **Description**                                                          |
-|-------------------------|---------------|--------------------------------------------------------------------------|
-| ride_id                 | int           | Identification number of trip.                                           |
-| started_at              | Timestamp     | When a trip started                                                      |
-| ended_at                | Timestamp     | When a trip ended                                                        |                                         |
-| ride_length             | Timestamp     | How long a trip lasted.                                                  |
-| start & end station     | geography     | start and end location                                                   |
-| member_casual           | string        | Information about whether a rider was a subscriber or a casual customer. |
+### ➡ Read the complete article [here](https://medium.com/@imagineazhar/analyzing-customers-behaviour-of-a-bike-sharing-company-4e6ac063af8a)
 
-
-
-## Presentation
-<embed src="/blog/main/Report.pdf" type="application/pdf">
+### ➡ Presentataion deck : [Presentation](https://github.com/imagineazhar/bikeshare/blob/main/Report.pdf)
 
 #### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 <div style="width:300px; height:200px">
