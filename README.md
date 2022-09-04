@@ -18,18 +18,19 @@
   <a href="https://www.buymeacoffee.com/imagineazhar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
   <br><br>
 </div> -->
-
-
+![Title](images/title.png)
 In this case study, I will perform data analysis for a fictional bike-share company (Cyclistic) in order to help them attraconvert casual riders into members. 
 
-## Task Statement:
+## Task Statement
+
 Analyze historical data to find differences between annual members and casual riders. Based on the analysis provide three recommendations for marketing strategies aimed at converting casual riders into annual members.
 
-## Data Prep:
-I will use Cyclistic’s historical trip data to explore how different customer types are using bikes. [Download the previous 12 months of Cyclistic trip data
-here](https://divvy-tripdata.s3.amazonaws.com/index.html). 
+## Data Prep
 
->  The datasets have a different name because Cyclistic is a fictional company.The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).) This is a public dataset.
+I will use Cyclistic’s historical trip data to explore how different customer types are using bikes. [Download the previous 12 months of Cyclistic trip data
+here](https://divvy-tripdata.s3.amazonaws.com/index.html).
+
+> The datasets have a different name because Cyclistic is a fictional company.The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).) This is a public dataset.
 >  
 ### ➡ Read the complete article [here](https://medium.com/@imagineazhar/analyzing-customers-behaviour-of-a-bike-sharing-company-4e6ac063af8a)
 
