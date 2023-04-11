@@ -19,7 +19,7 @@
   <br><br>
 </div> -->
 ![Title](images/title.png)
-In this case study, I will perform data analysis for a fictional bike-share company (Cyclistic) in order to help them attraconvert casual riders into members. 
+In this case study, I conducted data analysis for a fictional bike-share company (Cyclistic) to assist them in converting casual riders into subscribers. 
 
 ## Task Statement
 
